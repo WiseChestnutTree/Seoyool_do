@@ -1,1 +1,7 @@
-# Seoyool_do
+  # Seoyool's Git
+----------
+```
++ Tech Stack
+  +
+
+```
