@@ -1,6 +1,6 @@
   # Seoyool's Git
 ----------
+  ## 기술스택
 ```
-* 기술 스택
   - JAVA , Python , C
 ```
